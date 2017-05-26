@@ -1,0 +1,16 @@
+{
+    "name": "fgsl/core",
+    "description": "FGSL Core Component",
+    "license": "AGPL",
+    "keywords": [
+		"config",
+        "core",
+        "logger"
+    ],
+    "homepage": "https://github.com/fgsl/core",
+    "require": {
+        "php": ">=7",
+        "zendframework/zend-config":"^3.1.0",        
+        "zendframework/zend-log":"^2.9.2"        
+    }
+}
